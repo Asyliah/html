@@ -1,9 +1,0 @@
-<?php
-
-$menuConfig = [
-"pages" => [
-    
-    ]
-];
-
-?>
